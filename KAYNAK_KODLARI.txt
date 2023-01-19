@@ -1,0 +1,32 @@
+Faydalandığım Kaynaklar:
+
+Splash Screen
+------------------------------------------------------------------------
+https://www.digitalocean.com/community/tutorials/android-splash-screen
+------------------------------------------------------------------------
+
+
+Action Bar
+------------------------------------------------------------------------
+https://gist.github.com/codinginflow/97287bb1ae6c49a31fb8e5a69fe2ca12
+https://www.youtube.com/watch?v=A9rcKZUm0zM&ab_channel=CodinginFlow
+------------------------------------------------------------------------
+
+
+RecyclerView
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=qAHWVIK7_BY&ab_channel=AndroidKnowledge
+https://androidknowledge.com/recyclerview-in-android-studio-using-java/
+------------------------------------------------------------------------
+
+
+Sayfa Geçiş
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=oV6KzD3Ehks&ab_channel=AdemKORKMAZ
+------------------------------------------------------------------------
+
+
+Fire Base Bağlantı
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=MWMB31iFyu8&ab_channel=Yusufcan%C5%9Eent%C3%BCrk
+------------------------------------------------------------------------
